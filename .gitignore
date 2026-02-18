@@ -1,0 +1,21 @@
+# Compiled binaries
+bfq_unpack
+bfq_align
+bfq_seed_align
+
+# Object files
+*.o
+
+# Test data
+*.bfq
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
